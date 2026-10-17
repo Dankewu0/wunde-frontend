@@ -8,6 +8,7 @@ export default function Footer() {
         <Link href="/shops">Магазины</Link>
         <Link href="/about">О нас</Link>
         <Link href="/catalog">Каталог</Link>
+        <Link href="/support">Поддержка</Link>
       </nav>
     </footer>
   );
