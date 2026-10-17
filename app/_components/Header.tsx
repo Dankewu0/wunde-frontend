@@ -8,7 +8,7 @@ import CatalogButton from "./CatalogButton";
 export default function Header() {
   return (
     <header>
-      <section>Wunde</section>
+      <Link href="/">Wunde</Link>
       <CatalogButton />
       <nav>
         <Link href="/shops">Магазины</Link>
